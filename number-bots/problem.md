@@ -6,4 +6,4 @@ What is the longest true equation that can be formed using every digit from 0 to
 
 ## Example solution:
 
-45679•0 + 8/2 -3 = 1
+45679•0 + 8/2 - 3 = 1
